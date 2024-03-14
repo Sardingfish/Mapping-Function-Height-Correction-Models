@@ -40,7 +40,7 @@ The downloaded files shall be organized as the following hierarchy:
 
 ## Graphical Representation
 
-<img src="./image/graphical-representation.png" width = 80% div align=center/>
+<img src="./image/graphical-representation.png" width = 80% align=center/>
 
 ## License
 
