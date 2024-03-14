@@ -37,6 +37,11 @@ The downloaded files shall be organized as the following hierarchy:
 >    - gridpoint_coord_5x5.txt
 
 
+
+## Graphical Representation
+
+<img src="./image/graphical-representation.png" width = 80% div align=center/>
+
 ## License
 
 [MIT](LICENSE) © Richard Littauer
