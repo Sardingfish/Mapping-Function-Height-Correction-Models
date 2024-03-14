@@ -44,6 +44,9 @@ The downloaded files shall be organized as the following hierarchy:
 <img src="./image/graphical-representation.png" width = 80%>
 </div>
 
+## Acknowledgments
+We would like to thank the European Centre for Medium-Range Weather Forecasts (ECMWF) for providing the ERA5 data on pressure levels (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview), and we would like to thank the Technische Universität Wien for the open-source ray-tracing software RADIATE (https://github.com/TUW-VieVS/RADIATE).
+
 ## License
 
 [MIT](LICENSE) © Richard Littauer
