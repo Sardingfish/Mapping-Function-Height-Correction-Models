@@ -45,7 +45,7 @@ The downloaded files shall be organized as the following hierarchy:
 </div>
 
 ## Acknowledgments
-We would like to thank the European Centre for Medium-Range Weather Forecasts (ECMWF) for providing the ERA5 data on pressure levels (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview), and we would like to thank the Technische Universität Wien for the open-source ray-tracing software RADIATE (https://github.com/TUW-VieVS/RADIATE). In addition, we would like to thank [VMF Data Server](https://vmf.geo.tuwien.ac.at/) for providing the VMF1 and VMF3 products (https://vmf.geo.tuwien.ac.at/trop_products/) and the Niell elevation correction model (https://vmf.geo.tuwien.ac.at/codes/).
+We would like to thank the European Centre for Medium-Range Weather Forecasts (ECMWF) for providing the ERA5 data on pressure levels (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview), and we would like to thank the Technische Universität Wien for the open-source ray-tracing software RADIATE (https://github.com/TUW-VieVS/RADIATE). In addition, we would like to thank [VMF Data Server](https://vmf.geo.tuwien.ac.at/) for providing the VMF1 and VMF3 products (https://vmf.geo.tuwien.ac.at/trop_products/) and the Niell height correction model (https://vmf.geo.tuwien.ac.at/codes/).
 
 ## License
 
