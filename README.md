@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/version-1.0.0-green.svg) ![](https://img.shields.io/badge/platform-windows-orange.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/compiler-matlab-yellow.svg) ![](https://img.shields.io/badge/license-MIT-ff69b4.svg)
 
-The repository offers a minimal dataset of model parameters and a MATLAB script for deriving the coefficient `a` of the mapping function from the provided tropospheric delay mapping function height correction models' parameters, specifically tailored to user-specified height locations.
+This repository offers a minimal dataset of model parameters and a MATLAB script for deriving the coefficient `a` of these parameters, and provides the height-corrected mapping function for a user-specified height position.
 
-Paper title: "A novel method for tropospheric delay mapping function vertical modeling"
+Paper title: "A novel method for tropospheric delay mapping function vertical modeling".
 
 ## Background
 
