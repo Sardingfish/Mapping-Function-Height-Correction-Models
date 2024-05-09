@@ -4,7 +4,13 @@
 
 This repository offers a minimal dataset of model parameters and a MATLAB script for deriving the coefficient `a` from these parameters, and provides the height-corrected mapping function for a user-specified height position.
 
-Paper title: "A novel method for tropospheric delay mapping function vertical modeling".
+## News and Updates
+
+[] Paper published
+
+[02 Apr 2014] The Paper was accepted by *[Journal of Geodesy](https://link.springer.com/journal/190)*.
+
+[12 May 2024] This repository is created.
 
 ## Background
 
@@ -46,6 +52,14 @@ The downloaded files shall be organized as the following hierarchy:
 
 ## Acknowledgments
 We would like to thank the European Centre for Medium-Range Weather Forecasts (ECMWF) for providing the ERA5 data on pressure levels (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview), and we would like to thank the Technische Universität Wien for the open-source ray-tracing software RADIATE (https://github.com/TUW-VieVS/RADIATE). In addition, we would like to thank [VMF Data Server](https://vmf.geo.tuwien.ac.at/) for providing the VMF1 and VMF3 products (https://vmf.geo.tuwien.ac.at/trop_products/) and the Niell height correction model (https://vmf.geo.tuwien.ac.at/codes/).
+
+## Citations
+
+If you use the resource in your research, please cite our paper:
+
+> Ding JS, Chen JP, Wang JG and Zhang YZ (2024) A novel method for tropospheric delay mapping function vertical modeling. Journal of Geodesy, 98, 28.
+
+
 
 ## License
 
