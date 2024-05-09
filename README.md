@@ -6,11 +6,11 @@ This repository offers a minimal dataset of model parameters and a MATLAB script
 
 ## News and Updates
 
-[] Paper published
+[09 May 2024] Paper published, cite this article: Ding, J., Chen, J., Wang, J. et al. A novel method for tropospheric delay mapping function vertical modeling. J Geod 98, 37 (2024). https://doi.org/10.1007/s00190-024-01845-2
 
-[02 Apr 2014] The Paper was accepted by *[Journal of Geodesy](https://link.springer.com/journal/190)*.
+[02 Apr 2024] The Paper was accepted by *[Journal of Geodesy](https://link.springer.com/journal/190)*.
 
-[12 May 2024] This repository is created.
+[12 March 2024] This repository is created.
 
 ## Background
 
